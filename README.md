@@ -1,2 +1,4 @@
 # Roster
-This repository contains the starter files for the Roster challenge
+
+## Objective
+Create a basic database-driven API that will perform CRUD operations on the provided database using .NET and the Entity Framework.
